@@ -1,6 +1,6 @@
 # Hi, I'm Kunal Tiwari 👋
 
-B.Tech Computer Science student from Kanpur, India. I build full-stack systems and data pipelines with a focus on clean engineering and real-world impact.
+B.Tech Computer Science student . I build full-stack systems and data pipelines with a focus on clean engineering and real-world impact.
 
 ---
 
@@ -33,11 +33,6 @@ Command-line weather tool built with Node.js and the OpenWeatherMap API.
 Console-based CRUD system with file persistence, built in C.
 
 **Stack:** C · File I/O
-
----
-
-### 🗺️ Mind Map *(In Progress — Private)*
-Interactive knowledge organization tool with hierarchical node-based structure.
 
 ---
 
